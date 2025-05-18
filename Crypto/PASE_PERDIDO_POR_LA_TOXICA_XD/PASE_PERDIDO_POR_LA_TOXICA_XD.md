@@ -20,7 +20,7 @@ Pablito faltó a clases y quiere participar en la 4 Competencia de Seguridad Inf
 # -n evita el salto de linea de la cadena de texto
 # sed 's/ .*//' para eliminar cualquier texto adicional de la salida
 echo -n "Bienvenido_CIDSI_2022" | md5sum | sed 's/ .*//'
-
+28e043ef6109375dafe8d541f2896bed
 ```
 
 solucion:

@@ -12,7 +12,7 @@ AAABABAAAAABAAAABBBABAABAABBABAABBABAAAAAAAAAAABABABAAAAAAAAAAAABAAAAAAAABAABBAB
 
 ![alt text](tocino.png)
 
-respuesta 
+respuesta
 
 ```bash
 $ echo -n "CRIPTOGRAFIABACON" | md5sum | sed 's/ .*//'
